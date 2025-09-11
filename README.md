@@ -1,4 +1,1 @@
-# semantik
-# Belajar-website
-# Belajar-website
-# Belajar-website
+# Mendalami html, dan mendalami css dalam hal responsive
