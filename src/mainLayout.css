@@ -1,14 +1,38 @@
 @media screen and (max-width: 1024px){
+    header{
+        padding: 0px 40px;
+    }
+    
     main{
-        padding:0px 60px;
+        padding:0px 40px;
     }
 }
 
-
-
 @media screen and (max-width: 768px){
+
+    header{
+        padding: 0px 20px;
+        margin-bottom: 50px;
+    }
+
+    header h2{
+        font-size: 1rem; 
+    }
+
+    .container-logo{
+        gap : 5px;
+    }
+
+    nav{
+        display: none;
+    }
+
     main{
-        padding:0px 40px;
+        padding:0px 20px;
+    }
+
+    main h1{
+        font-size: 1.5rem;
     }
 
     section{
