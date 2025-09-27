@@ -7,7 +7,6 @@ html, body{
     scroll-behavior: smooth;
     box-sizing: border-box;
     font-family:'Roboto' ,sans-serif;
-    height: 500vh;
 }
 
 @font-face {
@@ -112,3 +111,5 @@ section a{
     border-radius: 5px;
     transition: 0.3s;
 }
+
+
