@@ -1,8 +1,11 @@
 @media screen and (max-width: 1024px){
+
+    /* Header style */
     header{
         padding: 0px 40px;
     }
     
+    /* Main style */
     main{
         padding:0px 40px;
     }
@@ -10,6 +13,7 @@
 
 @media screen and (max-width: 768px){
 
+    /* Header style */
     header{
         padding: 0px 20px;
         margin-bottom: 50px;
@@ -23,10 +27,12 @@
         gap : 5px;
     }
 
+    /* Nav style */
     nav{
         display: none;
     }
 
+    /* Main style */
     main{
         padding:0px 20px;
     }
@@ -35,6 +41,7 @@
         font-size: 1.5rem;
     }
 
+    /* Content style */
     section{
         flex-direction: column;
         gap: 20px;
@@ -54,5 +61,4 @@
     margin: 0 auto;
     padding: 10px 20px;
     }
-
 }
